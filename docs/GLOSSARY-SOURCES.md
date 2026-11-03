@@ -63,3 +63,57 @@ Definitions are brief, original explanations. Legal entries describe concepts ra
 | crore | 18 | `reports/2022/09/sri-lanka-kudiramalai-434kg-kerala-cannabis-2022.md` |
 | rai | 1 | `reports/2013/05/kaeng-krachan-cannabis-clearings-2013.md` |
 | wet weight | 5 | `reports/2022/09/sri-lanka-kudiramalai-434kg-kerala-cannabis-2022.md` |
+
+
+# Glossary review: 3 November 2026
+
+Reviewed the titles, summaries and bodies of 3,750 Cannabis Enforcement Tracker reports for legal, court and agency words the glossary did not yet explain, and added 33 entries in glossary.yaml, plus the forms "THC gummies" and "cannabis gummies" for the existing edibles entry. Counts below are reports in which the glossary now marks the term, counted once per report.
+
+Definitions follow the earlier rules: brief, original, concepts rather than one country's procedure where the word is general. Laws are described by what they are and what the reports need from them, without section-by-section detail. Agency entries give only the agency's name, country and role. Bare "Class A/B/C" and the unaccented "Policia Federal" are not forms, because they matched US felony classes and Mexico's federal police.
+
+## Editorial references
+
+- NDPS Act quantities (ganja: 1 kg small, 20 kg commercial, notification S.O. 1055(E) of 19 October 2001): [Narcotic Drugs and Psychotropic Substances Act, 1985 (Wikipedia)](https://en.wikipedia.org/wiki/Narcotic_Drugs_and_Psychotropic_Substances_Act,_1985), [Department of Revenue, punishment for offences](https://dor.gov.in/punishment-offences).
+- UK drug classes and maximum penalties: [GOV.UK drugs penalties](https://www.gov.uk/penalties-drug-possession-dealing).
+- Singapore's cannabis thresholds and the death penalty above 500 grams: [Central Narcotics Bureau, Singapore's anti-drug laws on cannabis](https://www.cnb.gov.sg/educational-resources/myths-and-facts-about-drugs/cannabis/singapore's-anti-drug-laws-on-cannabis).
+- Malaysia's Abolition of Mandatory Death Penalty Act 2023 (in force 4 July 2023): [Mondaq summary](https://www.mondaq.com/trials-appeals-compensation/1369226/abolishment-of-mandatory-death-penalty-in-malaysia), [AmCham Malaysia note](https://amcham.com.my/wp-content/uploads/Abolishment-of-Mandatory-Death-Penalty-in-Malaysia.pdf).
+- FIR under section 154 CrPC and section 173 BNSS: [LiveLaw on the Supreme Court's explanation](https://www.livelaw.in/amp/top-stories/difference-between-fir-registration-provisions-under-s-154-crpc-s-173-bnss-supreme-court-explains-288077).
+- Russia's Article 228: the entry gives only its scope (acquiring or keeping without intent to sell, from a "significant" amount set by decree), because the published thresholds in secondary sources disagree.
+
+## New terms in the reports
+
+| Term | Reports | Example |
+|---|---:|---|
+| NDPS Act | 263 | `reports/2008/02/mumbai-ghulam-malik-hashish-death-sentence-2008.md` |
+| Dangerous Drugs Act | 41 | `reports/2004/02/nauru-indian-hemp-possession-2004.md` |
+| Narcotics Control Act | 35 | `reports/2026/04/bhurungamari-bus-terminal-3kg-ganja.md` |
+| Article 228 | 36 | `reports/2019/06/russia-golunov-article-228-2019.md` |
+| Class B drug | 31 | `reports/2003/10/belfast-city-airport-erasmus-17kg-sentence-2003.md` |
+| controlled substance | 46 | `reports/2001/11/vaughan-bradwick-8600-plants-2001.md` |
+| possession with intent to supply | 86 | `reports/2000/07/davyhulme-tonne-cannabis-sentences-2000.md` |
+| death penalty | 86 | `reports/2001/09/thiru-selvam-execution-2001.md` |
+| mandatory death sentence | 34 | `reports/2002/04/singapore-amran-rabu-2174g-cannabis-appeal-2002.md` |
+| rigorous imprisonment | 27 | `reports/2008/02/mumbai-ghulam-malik-hashish-death-sentence-2008.md` |
+| magistrate | 157 | `reports/2000/02/hong-kong-personal-cannabis-sentence-2000.md` |
+| Crown Court | 56 | `reports/2000/07/davyhulme-tonne-cannabis-sentences-2000.md` |
+| High Court | 90 | `reports/2000/12/red-scorpion-aberdeen-8-7-tonnes-2000.md` |
+| arraignment | 51 | `reports/2004/05/st-helens-four-tonnes-resin-sentences.md` |
+| FIR | 32 | `reports/2026/10/anantnag-eight-arrests-charas.md` |
+| proclaimed offender | 3 | `reports/2026/11/dera-ismail-khan-paharpur-13-arrests-596g-hashish.md` |
+| station house officer | 44 | `reports/2025/08/sikar-ranoli-millet-ganja-64kg.md` |
+| crime branch | 33 | `reports/2015/11/kayseri-bus-3953g-cannabis-seizure.md` |
+| money laundering | 34 | `reports/2003/10/ventura-pot-ringleaders-arrest-2003.md` |
+| proceeds of crime | 21 | `reports/2005/04/online-cannabis-dealers-sentenced-2005.md` |
+| gendarmerie | 93 | `reports/2008/01/ljmiane-12-tonnes-seizure-2008.md` |
+| Guardia Civil | 38 | `reports/2013/05/algeciras-melon-truck-32-tonnes-2013.md` |
+| Carabinieri | 24 | `reports/2026/10/balti-hashish-19-year-old.md` |
+| Guardia di Finanza | 13 | `reports/2013/09/gold-star-30-tons-hashish-sicily.md` |
+| Polícia Federal | 17 | `reports/2002/12/alianca-nove-265-hectares-2002.md` |
+| DEA | 83 | `reports/2000/04/operation-green-air-fedex.md` |
+| NDLEA | 77 | `reports/2008/05/ibadan-ndlea-80-tonnes-2008.md` |
+| PDEA | 57 | `reports/2003/10/kalinga-chumanchil-100000-plants-2003.md` |
+| BNN | 32 | `reports/2006/05/nila-rencong-bireuen-39ha-2006.md` |
+| SENAD | 41 | `reports/2005/08/senad-asuncion-336kg-network-2005.md` |
+| NCB | 26 | `reports/2000/07/kullu-banjar-62kg-hashish-2000.md` |
+| CNB | 20 | `reports/2002/04/singapore-amran-rabu-2174g-cannabis-appeal-2002.md` |
+| vape cartridge | 19 | `reports/2024/03/philippines-micp-kush-hash-2024.md` |
