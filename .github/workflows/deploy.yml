@@ -47,10 +47,13 @@ jobs:
             og-
       # The site URL and sub-path come from the repository's Pages settings, so the
       # same build works for user.github.io/repo and for a custom domain.
+      # Generating every page outgrew Node's default 4 GB heap (November 2026); the public
+      # runner has 16 GB.
       - run: npm run build
         env:
           SITE: ${{ steps.pages.outputs.origin }}
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          NODE_OPTIONS: --max-old-space-size=8192
       # what search engines and link previews read: sitemap coverage, canonical addresses,
       # descriptions, og:images that exist, JSON-LD and internal links (scripts/seo-audit.mjs)
       - run: npm run seo:audit
