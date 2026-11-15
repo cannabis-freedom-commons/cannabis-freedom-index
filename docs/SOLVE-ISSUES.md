@@ -1,6 +1,6 @@
 # Solving GitHub issues
 
-How to work through the bug reports in `burningtree/cannabis-freedom-index`: one issue or a batch.
+How to work through the bug reports in `cannabis-freedom-commons/cannabis-freedom-index`: one issue or a batch.
 Most reports name a country, a claim on its page and a law that contradicts it. Written for any
 agent or person; the data rules live in `docs/DATA-MAINTENANCE.md` and `docs/WRITING.md`.
 

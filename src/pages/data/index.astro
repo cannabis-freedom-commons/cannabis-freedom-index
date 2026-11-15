@@ -7,7 +7,7 @@ import { archivedCount } from "../../lib/citations.js";
 import { SHOW_PRICES } from "../../lib/config.js";
 
 const base = import.meta.env.BASE_URL;
-const repo = "https://github.com/burningtree/cannabis-freedom-index";
+const repo = "https://github.com/cannabis-freedom-commons/cannabis-freedom-index";
 const files = [
   { name: "scores", title: "Scores", rows: scoreRows, about: "One row per country, disputed territory or dependency (Crown Dependencies and overseas territories, with dependency_of naming the country that answers for them): index score, the six segment scores, rank, tier, legal status, seed and clone status where researched, population and estimated cannabis users with survey ages, period, source and population denominator." },
   { name: "panel", title: "Scores by year", rows: panelRows, about: `One row per place and year from ${PANEL_FROM} to ${DATA_SNAPSHOT}: the index score and the six segment scores as they stood at the end of each year, rebuilt from the history. Made for joining with other country-year data.` },

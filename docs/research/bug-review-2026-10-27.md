@@ -76,34 +76,34 @@ Comments posted on all 31 issues with sources, local commits and validation. Clo
 
 | Issue | Result | Comment |
 |---|---|---|
-| #241 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/241#issuecomment-6454407013) |
-| #242 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/242#issuecomment-6454407904) |
-| #243 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/243#issuecomment-6454408721) |
-| #244 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/244#issuecomment-6454409625) |
-| #245 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/245#issuecomment-6454410517) |
-| #246 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/246#issuecomment-6454411294) |
-| #247 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/247#issuecomment-6454412199) |
-| #248 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/248#issuecomment-6454414387) |
-| #249 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/249#issuecomment-6454415191) |
-| #250 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/250#issuecomment-6454416074) |
-| #251 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/251#issuecomment-6454416925) |
-| #252 | Open — further verification | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/252#issuecomment-6454280589) |
-| #253 | Open — further verification | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/253#issuecomment-6454280933) |
-| #254 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/254#issuecomment-6454417876) |
-| #255 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/255#issuecomment-6454418873) |
-| #256 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/256#issuecomment-6454419734) |
-| #257 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/257#issuecomment-6454421855) |
-| #258 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/258#issuecomment-6454422714) |
-| #259 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/259#issuecomment-6454423734) |
-| #260 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/260#issuecomment-6454424595) |
-| #261 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/261#issuecomment-6454425346) |
-| #262 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/262#issuecomment-6454426182) |
-| #263 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/263#issuecomment-6454427028) |
-| #264 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/264#issuecomment-6454429737) |
-| #265 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/265#issuecomment-6454430583) |
-| #266 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/266#issuecomment-6454431477) |
-| #267 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/267#issuecomment-6454432422) |
-| #268 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/268#issuecomment-6454433472) |
-| #269 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/269#issuecomment-6454434467) |
-| #270 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/270#issuecomment-6454435332) |
-| #271 | Closed — completed | [Issue comment](https://github.com/burningtree/cannabis-freedom-index/issues/271#issuecomment-6454436140) |
+| #241 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/241#issuecomment-6454407013) |
+| #242 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/242#issuecomment-6454407904) |
+| #243 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/243#issuecomment-6454408721) |
+| #244 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/244#issuecomment-6454409625) |
+| #245 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/245#issuecomment-6454410517) |
+| #246 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/246#issuecomment-6454411294) |
+| #247 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/247#issuecomment-6454412199) |
+| #248 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/248#issuecomment-6454414387) |
+| #249 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/249#issuecomment-6454415191) |
+| #250 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/250#issuecomment-6454416074) |
+| #251 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/251#issuecomment-6454416925) |
+| #252 | Open — further verification | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/252#issuecomment-6454280589) |
+| #253 | Open — further verification | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/253#issuecomment-6454280933) |
+| #254 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/254#issuecomment-6454417876) |
+| #255 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/255#issuecomment-6454418873) |
+| #256 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/256#issuecomment-6454419734) |
+| #257 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/257#issuecomment-6454421855) |
+| #258 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/258#issuecomment-6454422714) |
+| #259 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/259#issuecomment-6454423734) |
+| #260 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/260#issuecomment-6454424595) |
+| #261 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/261#issuecomment-6454425346) |
+| #262 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/262#issuecomment-6454426182) |
+| #263 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/263#issuecomment-6454427028) |
+| #264 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/264#issuecomment-6454429737) |
+| #265 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/265#issuecomment-6454430583) |
+| #266 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/266#issuecomment-6454431477) |
+| #267 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/267#issuecomment-6454432422) |
+| #268 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/268#issuecomment-6454433472) |
+| #269 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/269#issuecomment-6454434467) |
+| #270 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/270#issuecomment-6454435332) |
+| #271 | Closed — completed | [Issue comment](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues/271#issuecomment-6454436140) |

@@ -16,7 +16,7 @@ import { build } from "../lib/build-info.js";
 // `image` replaces the drawn preview with another image of the site: [path after the base, width, height]
 const { title, seoTitle, description, jsonld, type = "website", noindex = false, image } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const repo = "https://github.com/burningtree/cannabis-freedom-index";
+const repo = "https://github.com/cannabis-freedom-commons/cannabis-freedom-index";
 const siteName = "Cannabis Freedom Index";
 const fullTitle = seoTitle ?? (title ? `${title} — ${siteName}` : `${siteName}: cannabis laws and legality in every country`);
 // the address search engines should index: no query string, no hash

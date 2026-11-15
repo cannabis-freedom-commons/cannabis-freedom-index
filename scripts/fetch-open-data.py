@@ -80,7 +80,7 @@ Python's standard library only. Run from the project root.
 """
 import calendar, csv, datetime, glob, json, os, re, sys, tempfile, time, urllib.parse, urllib.request
 
-AGENT = "cannabis-freedom-index dataset script (https://github.com/burningtree/cannabis-freedom-index)"
+AGENT = "cannabis-freedom-index dataset script (https://github.com/cannabis-freedom-commons/cannabis-freedom-index)"
 
 
 def get(url, data=None, tries=4):

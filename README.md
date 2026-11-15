@@ -54,7 +54,7 @@ something is wrong.
 
 Corrections are welcome: laws change, and many entries rest on secondary sources. Edit the
 country's file in `countries/` with a source for every claim, or
-[open an issue](https://github.com/burningtree/cannabis-freedom-index/issues).
+[open an issue](https://github.com/cannabis-freedom-commons/cannabis-freedom-index/issues).
 
 - `docs/DATA-MAINTENANCE.md`: how profiles, history and sources work.
 - `docs/WRITING.md`: how texts should read.
