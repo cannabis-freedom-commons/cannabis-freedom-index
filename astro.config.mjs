@@ -156,6 +156,9 @@ export default defineConfig({
   },
   // pictures in Markdown get a set of widths, so a phone does not download the 1280-pixel file
   image: { layout: "constrained" },
+  // some 6,500 pages are rendered four at a time instead of one by one (BUILD_CONCURRENCY overrides;
+  // the deploy gives the build an 8 GB heap for it)
+  build: { concurrency: Number(process.env.BUILD_CONCURRENCY) || 4 },
   // A build keeps its own Vite cache. Sharing the dev server's would wipe the dependencies the
   // running dev server has prepared (Fuse, nostr-tools), and its lazy imports would then fail
   // until it is restarted.
