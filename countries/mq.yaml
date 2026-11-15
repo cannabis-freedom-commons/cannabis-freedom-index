@@ -1,0 +1,178 @@
+name: Martinique
+region: North America
+iso_numeric: 474
+dependency:
+  of: fr
+  kind: French overseas department
+  note: >-
+    Martinique is a french overseas department. French national drug law, including the Code de la
+    santé publique prohibitions, is the applicable regime; there is no Martinique-specific cannabis
+    statute.
+recreational: illegal
+medical: limited
+updated: '2026-11-15'
+summary: >-
+      French prohibition applies: cannabis use, possession and growing are criminal offences, and the
+      only patient route is the restricted national French medical framework. Herb, grown locally or
+      brought from Saint Vincent and the Grenadines, dominates a busy market.
+scores:
+  possession: 1
+  cultivation: 1
+  enforcement: 3
+  sharing: 1
+  consumption: 1
+  access: 1
+segments:
+  possession:
+    text: >-
+      Illicit use and possession fall under article L3421-1 of the Code de la santé publique: up
+      to one year in prison and a €3,750 fine, with a national fixed-fine procedure for ordinary
+      use cases.[@csp,sp_use]
+    sources:
+      - csp
+      - sp_use
+    currency: EUR
+    penalties:
+      - label: Ordinary illicit use
+        treatment: criminal
+        term: Drug use
+        prison: 1 year
+        fine: 3750
+        note: National fixed-fine procedure applies to ordinary use cases
+  cultivation:
+    text: >-
+      Growing cannabis is treated as production of narcotics: up to 20 years imprisonment and a
+      €7.5 million fine, even for a few plants.[@cidj] In practice courts impose far lower
+      sentences for small personal grows.[@cidj]
+    sources:
+      - cidj
+    currency: EUR
+    penalties:
+      - label: Growing cannabis (production of narcotics)
+        treatment: criminal
+        term: Unlicensed cultivation
+        prison: 20 years
+        fine: 7500000
+        note: Courts impose far lower sentences for small personal grows
+  enforcement:
+    text: >-
+      The national law applies unchanged: ordinary use is handled mainly through fines, with the
+      one-year prison maximum remaining available.[@cidj,csp]
+    sources:
+      - cidj
+      - csp
+  sharing:
+    text: >-
+      Giving cannabis to someone for their personal use is a specific offence with up to five
+      years in prison under the national regime.[@cidj]
+    sources:
+      - cidj
+  consumption:
+    text: >-
+      Ordinary illicit use is a criminal offence in public or private, with up to one year and
+      €3,750; eligible ordinary-use cases can end through the national fixed-fine
+      process.[@csp,sp_use] [France has punished any drug use with up to a year in prison since
+      1970.](/history/france-use-criminalised-1970/) [Ordinary use moved into an on-the-spot fine in
+      2020.](/history/france-fixed-fine-2020/)
+    sources:
+      - csp
+      - sp_use
+  access:
+    text: >-
+      There is no Martinique-specific patient route; access follows the restricted national French
+      medical framework, limited to patients carried over from the 2021 experiment during the
+      transition to a permanent regime.[@sp] [France's medical cannabis experiment began in
+      2021.](/history/france-medical-experiment-2021/)
+    sources:
+      - sp
+context:
+  recreational:
+    text: >-
+      There is no legal recreational supply. Herbal cannabis has dominated the island's illegal
+      market since the 1970s and 1980s, in the wake of the Rastafari movement, and is sold at
+      numerous, scattered points of sale.[@ofdt_mq] Ordinary illicit use is a criminal offence with up
+      to one year in prison and a €3,750 fine.[@csp]
+    sources:
+      - ofdt_mq
+      - csp
+  production:
+    status: none
+    text: >-
+      Growing conditions favour local production alongside imports; all of it is outside any
+      legal regime, and growing is a production offence.[@ofdt_mq,cidj] No local resin production
+      is reported.[@ofdt_mq]
+    sources:
+      - ofdt_mq
+      - cidj
+  hemp:
+    status: standard
+    text: >-
+      CBD flower and products under 0.3% THC are lawful to sell under the national French
+      regime.[@cx] [France's top court allowed CBD flower sales in
+      2022.](/history/france-cbd-flower-2022/)
+    sources:
+      - cx
+  medical:
+    text: >-
+      No Martinique-specific patient route exists; access follows the restricted national French
+      medical framework.[@sp]
+    sources:
+      - sp
+  consequences:
+    text: >-
+      Use and possession convictions carry up to one year in prison and a €3,750 fine under the
+      national provisions, with convictions recorded under national criminal-record
+      rules.[@csp]
+    sources:
+      - csp
+  visitors:
+    status: none
+    text: >-
+      There is no legal recreational supply for anyone. Ordinary illicit use is a criminal
+      offence punishable by up to one year in prison and a €3,750 fine.[@csp,cidj]
+    sources:
+      - csp
+      - cidj
+  black_market:
+    text: >-
+      Herb seized in the area comes mostly from Saint Vincent and the Grenadines.[@ofdt_mq] Resin
+      arrives from Morocco through mainland France and is bartered against South American cocaine,
+      at 1 to 2.5 kg of resin per kilo of cocaine in 2021.[@ofdt_mq] Users report paying 10 € for 6
+      to 8 grams of herb or for one gram of resin, against 7 to 10 € a gram of herb in Paris.[@ofdt_mq]
+    sources:
+      - ofdt_mq
+  driving:
+    status: zero
+    text: >-
+      Driving after using a narcotic is an offence whatever the amount; there is no threshold, as
+      in the rest of France.[@onisr]
+    sources:
+      - onisr
+sources:
+  ofdt_mq:
+    title: OFDT — Pratiques d'usages et prise en charge des usagers de drogues en Martinique en 2022 (August 2024)
+    url: https://www.ofdt.fr/publication/2024/pratiques-d-usages-et-prise-en-charge-des-usagers-de-drogues-en-martinique-en-2022
+    locator: >-
+      Herb market particularly dynamic; seized herb mostly from Saint Vincent and the Grenadines;
+      local production; no local resin, resin from Morocco via mainland France, bartered 1–2.5 kg
+      per kg of cocaine (2021); 10 € for 6–8 g of herb or 1 g of resin.
+  cx:
+    title: The Connexion — French court definitively allows sale of CBD flowers and products
+    url: >-
+      https://connexionfrance.com/French-news/French-court-definitively-allows-sale-of-CBD-flowers-and-products
+  cidj:
+    title: CIDJ — Détention de cannabis, je risque quoi ?
+    url: https://www.cidj.com/vie-quotidienne/justice/detention-de-cannabis-je-risque-quoi
+  csp:
+    title: Légifrance — Code de la santé publique, article L3421-1, in force 20 August 2026
+    url: https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054724736/2026-08-20
+    locator: One year and €3,750 for ordinary illicit use of a scheduled narcotic.
+  sp_use:
+    title: French government Service Public — drug-use penalties
+    url: https://www.service-public.gouv.fr/particuliers/vosdroits/F33341
+  sp:
+    title: Service-Public.fr — Therapeutic cannabis
+    url: https://www.service-public.gouv.fr/particuliers/vosdroits/F35817?lang=en
+  onisr:
+    title: Observatoire national interministériel de la sécurité routière — Les infractions (2024 figures)
+    url: https://www.onisr.securite-routiere.gouv.fr/etudes-recherches/comportements-en-circulation/controles/les-infractions

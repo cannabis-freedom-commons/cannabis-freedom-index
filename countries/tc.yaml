@@ -1,0 +1,145 @@
+name: Turks and Caicos Islands
+region: North America
+iso_numeric: 796
+dependency:
+  of: gb
+  kind: British Overseas Territory
+  note: >-
+    The Turks and Caicos Islands are a British Overseas Territory with their own legislature and
+    laws; cannabis is controlled by the territory's Control of Drugs Ordinance, not by UK law.
+recreational: illegal
+medical: none
+updated: '2026-11-15'
+summary: >-
+  Cannabis is a Class B drug under the Control of Drugs Ordinance, with up to seven years for
+  possession on indictment and fifteen for possession with intent to supply. There is no medical
+  route; seizures from migrant boats and at the Providenciales transit shed are frequent.
+scores:
+  possession: 1
+  cultivation: 1
+  enforcement: 2
+  sharing: 1
+  consumption: 1
+  access: 0
+segments:
+  possession:
+    text: >-
+      Cannabis and cannabis resin are Class B drugs under the Control of Drugs Ordinance, revised
+      laws chapter 03.14.[@laws,wiki] Possession carries up to three years in prison or a $40,000
+      fine, or both, on summary conviction, and up to seven years or an unlimited fine before the
+      Supreme Court.[@wiki]
+    sources:
+      - laws
+      - wiki
+    currency: USD
+    penalties:
+      - label: Possession, summary conviction
+        treatment: criminal
+        term: Possession
+        prison: 3 years
+        fine: 40000
+      - label: Possession, on indictment
+        treatment: criminal
+        term: Possession
+        prison: 7 years
+        note: Unlimited fine
+  cultivation:
+    text: >-
+      Growing cannabis is a production offence under the same ordinance, with no licensing route
+      for medical or industrial cultivation.[@laws,wiki]
+    sources:
+      - laws
+      - wiki
+  enforcement:
+    text: >-
+      Police and the Border Force make regular cannabis seizures, many from Haitian migrant boats
+      and air cargo: in August 2024 a string of migrant-boat landings at Providenciales led to
+      marijuana seizures worth about $2 million, and in July 2025 Border Force officers found more than 21 kg in a parcel at
+      the Providenciales transit shed.[@aol24,mm25]
+    sources:
+      - aol24
+      - mm25
+  sharing:
+    text: >-
+      Possession with intent to supply carries up to four years or a $50,000 fine on summary
+      conviction and up to fifteen years or an unlimited fine before the Supreme Court.[@wiki]
+    sources:
+      - wiki
+    currency: USD
+    penalties:
+      - label: Possession with intent to supply, summary conviction
+        treatment: criminal
+        term: Supply
+        prison: 4 years
+        fine: 50000
+      - label: Possession with intent to supply, on indictment
+        treatment: criminal
+        term: Supply
+        prison: 15 years
+        note: Unlimited fine
+  consumption:
+    text: >-
+      There is no lawful use: any possession of cannabis is an offence under the Control of Drugs
+      Ordinance, and no decriminalisation or medical exemption has been adopted.[@wiki,fcdo]
+    sources:
+      - wiki
+      - fcdo
+  access:
+    text: >-
+      No medical cannabis route exists; cannabis remains a Class B controlled drug.[@wiki]
+    sources:
+      - wiki
+context:
+  production:
+    status: none
+    text: >-
+      No legal production exists; seized cannabis arrives by sea, often on migrant boats from
+      Haiti, and by air cargo.[@aol24,mm25]
+    sources:
+      - aol24
+      - mm25
+  medical:
+    text: >-
+      There is no medical cannabis programme or exemption in the Control of Drugs Ordinance.[@wiki]
+    sources:
+      - wiki
+  consequences:
+    text: >-
+      Possession can bring up to seven years in prison before the Supreme Court; the UK government
+      warns visitors that drug offences carry heavy fines and prison.[@wiki,fcdo]
+    sources:
+      - wiki
+      - fcdo
+  visitors:
+    status: none
+    text: >-
+      There is no legal supply for anyone; the UK travel advice warns that possession of drugs
+      leads to heavy fines or imprisonment.[@fcdo]
+    sources:
+      - fcdo
+  arrests:
+    text: >-
+      In August 2024 a string of Haitian migrant landings led to marijuana seizures worth about $2
+      million around Providenciales; on 16 and 17 July 2025 the Border Force seized
+      more than 21 kg of cannabis worth about $264,000 at the Providenciales transit
+      shed.[@aol24,mm25]
+    sources:
+      - aol24
+      - mm25
+sources:
+  laws:
+    title: Turks and Caicos Islands Attorney General's Chambers — 2021 Revised Laws, 03.14 Control of Drugs Ordinance
+    url: https://gov.tc/agc/2021-revised-laws
+  wiki:
+    title: Wikipedia — Cannabis in the Turks and Caicos Islands
+    url: https://en.wikipedia.org/wiki/Cannabis_in_the_Turks_and_Caicos_Islands
+    locator: Class B under Part II of the Control of Drugs Ordinance 1976; Schedule 4 penalties for possession and possession with intent to supply.
+  fcdo:
+    title: UK Foreign, Commonwealth & Development Office — Turks and Caicos Islands travel advice, local laws and customs
+    url: https://www.gov.uk/foreign-travel-advice/turks-and-caicos-islands/local-laws-and-customs
+  aol24:
+    title: Miami Herald via AOL — String of Haitian migrant landings in Turks & Caicos lead to $2 million marijuana busts (August 2024)
+    url: https://www.aol.com/string-haitian-migrant-landings-turks-150304876.html
+  mm25:
+    title: "Magnetic Media — Weed bust: over a quarter-million in cannabis seized at Providenciales transit shed (July 2025)"
+    url: https://magneticmediatv.com/2025/07/weed-bust-over-a-quarter%e2%80%91million-in-cannabis-seized-at-providenciales-transit-shed-trend-of-high%e2%80%91value-hauls-continues/?amp=1

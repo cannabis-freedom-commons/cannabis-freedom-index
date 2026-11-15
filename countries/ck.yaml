@@ -1,0 +1,153 @@
+name: Cook Islands
+region: Oceania
+iso_numeric: 184
+dependency:
+  of: nz
+  kind: Self-governing state in free association with New Zealand
+  note: >-
+    The Cook Islands govern themselves in free association with New Zealand and make their own
+    laws; cannabis is controlled by the Cook Islands' own Narcotics and Misuse of Drugs Act 2004,
+    not by New Zealand's.
+recreational: illegal
+medical: limited
+updated: '2026-11-15'
+summary: >-
+  Cannabis is illegal under the Narcotics and Misuse of Drugs Act 2004, with up to 20 years for
+  growing it, twice New Zealand's maximum. Since 2 July 2024 patients with a prescription may bring
+  in up to a month's supply of medicinal cannabis, and licensed pharmacies may import it.
+scores:
+  possession: 1
+  cultivation: 1
+  enforcement: 2
+  sharing: 1
+  consumption: 1
+  access: 1
+segments:
+  possession:
+    text: >-
+      Possessing cannabis is an offence under the Narcotics and Misuse of Drugs Act 2004, which the
+      High Court describes as carrying up to two years in prison, a fine of up to $5,000, or
+      both.[@ckhc16] Possessing a utensil such as a bong carries up to five years or a $5,000
+      fine.[@ckhc16]
+    sources:
+      - ckhc16
+    currency: NZD
+    penalties:
+      - label: Possession of cannabis
+        treatment: criminal
+        term: Possession
+        prison: 2 years
+        fine: 5000
+      - label: Possession of a utensil (pipe, bong)
+        treatment: criminal
+        term: Utensils
+        prison: 5 years
+        fine: 5000
+  cultivation:
+    text: >-
+      Cultivating cannabis carries up to 20 years in prison, raised from 14 years in 2004; judges
+      note that the New Zealand maximum for the same offence is seven years.[@ckhc18,ckhc22] Police
+      regularly seize small plots, such as more than 30 plants in Arorangi in October 2021.[@cin21]
+    sources:
+      - ckhc18
+      - ckhc22
+      - cin21
+    currency: NZD
+    penalties:
+      - label: Cultivating cannabis
+        treatment: criminal
+        term: Cultivation
+        prison: 20 years
+        note: The High Court describes custodial starting points outside the least serious cases
+  enforcement:
+    text: >-
+      Courts treat cannabis offending seriously: sentencing decisions take a custodial term as the
+      usual starting point outside the least serious cases, and police search warrants and plant
+      seizures are reported regularly.[@ckhc22,cin21]
+    sources:
+      - ckhc22
+      - cin21
+  sharing:
+    text: >-
+      Supplying or selling cannabis is an offence under the same Act, which treats dealing more
+      severely than possession; no lawful way to share cannabis exists outside a prescription.[@ckhc16,health24]
+    sources:
+      - ckhc16
+      - health24
+  consumption:
+    text: >-
+      Cannabis, its products, seeds and paraphernalia are illegal, and possessing, growing, selling
+      or smuggling it is punishable by a fine or prison; the 2024 change covers only prescribed
+      medicinal cannabis.[@cin21,health24]
+    sources:
+      - cin21
+      - health24
+  access:
+    text: >-
+      Since 2 July 2024 the Narcotics and Misuse of Drugs Amendment Act 2023 and the Narcotics
+      Amendment Regulations 2024 let anyone with a prescription, resident or visitor, bring in up to
+      a month's supply of medicinal cannabis, and eligible pharmacies may import it.[@health24,ib24]
+      There is no local production.[@health24]
+    sources:
+      - health24
+      - ib24
+context:
+  production:
+    status: none
+    text: >-
+      No lawful cultivation exists: medicinal cannabis must be imported on prescription or by an
+      eligible pharmacy, and growing cannabis carries up to 20 years.[@health24,ckhc22]
+    sources:
+      - health24
+      - ckhc22
+  medical:
+    text: >-
+      The Ministry of Health brought medicinal cannabis into force on 2 July 2024: a patient
+      prescribed it, including by an overseas practitioner, may import and possess up to a month's
+      supply, and pharmacies such as the TMO Pharmacy may import it.[@health24,ib24]
+    sources:
+      - health24
+      - ib24
+  consequences:
+    text: >-
+      Convictions can bring prison; the High Court has said a custodial sentence is the usual
+      starting point outside the least serious cultivation and dealing cases.[@ckhc22]
+    sources:
+      - ckhc22
+  visitors:
+    status: none
+    text: >-
+      There is no legal recreational supply; visitors may bring in only prescribed medicinal
+      cannabis, up to a month's supply.[@health24]
+    sources:
+      - health24
+  arrests:
+    text: >-
+      Police seized more than 30 cannabis plants in Arorangi, Rarotonga, in late October
+      2021.[@cin21]
+    sources:
+      - cin21
+sources:
+  health24:
+    title: Cook Islands Ministry of Health — Minister's media release on medicinal cannabis (2 July 2024)
+    url: https://www.health.gov.ck/wp-content/uploads/2024/07/Minister-MEDIA-RELEASE-MEDICINAL-CANNABIS.pdf
+    locator: The Narcotics and Misuse of Drugs Amendment Act 2023 and the Narcotics Amendment Regulations 2024 in effect from 2 July 2024; up to one month's supply on prescription; pharmacies may import.
+  ib24:
+    title: Islands Business — Medicinal cannabis now permitted in Cook Islands with prescription (July 2024)
+    url: https://islandsbusiness.com/?p=34532
+  ckhc16:
+    title: High Court of the Cook Islands — sentencing decision on possession of cannabis (2016)
+    url: https://pacliirms.paclii.org/ck/cases/CKHC/2016/19.html
+    locator: Possession of cannabis carries up to 2 years or a $5,000 fine or both; a utensil up to 5 years or $5,000.
+  ckhc18:
+    title: High Court of the Cook Islands — [2018] CKHC 8, sentencing for cultivating 15 cannabis plants
+    url: https://pacliirms.austlii.edu.au/ck/cases/CKHC/2018/8.html
+    locator: Cultivation under the Narcotics and Misuse of Drugs Act carries a maximum of 20 years.
+  ckhc22:
+    title: High Court of the Cook Islands — [2022] CKHC 4, sentencing decision
+    url: https://pacliirms.austlii.edu.au/ck/cases/CKHC/2022/4.html
+    locator: '"At the present time, the law is that cultivation of cannabis carries a maximum sentence of 20 years in jail."'
+  cin21:
+    title: "Cook Islands News — Opinion: The debate surrounding cannabis use (23 November 2021)"
+    url: https://cookislandsnews.com/?p=232673
+    locator: Cannabis, products, seeds and paraphernalia illegal; more than 30 plants seized in Arorangi in late October 2021.

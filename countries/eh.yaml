@@ -1,0 +1,146 @@
+name: Western Sahara
+region: Africa
+iso_numeric: 732
+disputed:
+  part_of: ma
+  note: >-
+    Morocco controls about 70% of Western Sahara, including all major cities and the coast, and
+    applies its own law there; the Polisario Front holds the rest east of the berm. Its status is
+    unresolved, and most countries recognise neither side's sovereignty.
+recreational: illegal
+medical: limited
+updated: '2026-11-15'
+summary: >-
+  In the Moroccan-held part, Morocco's 1974 narcotics law applies: five to ten years for illicit
+  possession, up to a year for use. The 2021 legal-cannabis law licenses growing only in the Rif.
+  The territory is a route for Moroccan resin heading south, with tonnes seized and burned.
+scores:
+  possession: 1
+  cultivation: 1
+  enforcement: 2
+  sharing: 1
+  consumption: 2
+  access: 1
+segments:
+  possession:
+    text: >-
+      In the Moroccan-administered part, Article 2 of Morocco's 1974 law punishes illicit
+      possession, import, production and transport with five to ten years and a 5,000–50,000
+      dirham fine, with no quantity threshold.[@law1974,wiki] Article 8's two-month-to-one-year term
+      concerns illicit use.[@law1974]
+    sources:
+      - law1974
+      - wiki
+    currency: MAD
+    penalties:
+      - label: Illicit possession (Article 2)
+        treatment: criminal
+        term: Possession
+        prison_min: 5 years
+        prison: 10 years
+        fine_min: 5000
+        fine: 50000
+        note: No quantity threshold
+      - label: Use (Article 8)
+        treatment: criminal
+        term: Personal use
+        prison_min: 2 months
+        prison: 1 year
+        fine_min: 500
+        fine: 5000
+        note: Prison, fine, or either alone
+  cultivation:
+    text: >-
+      Unlicensed growing carries five to ten years under the 1974 law; Morocco's 2021 Law 13-21
+      licenses cultivation only in the provinces fixed by decree, all in the north, so no licensed
+      growing exists in Western Sahara.[@law1974,anrac_law,anrac_decrees]
+    sources:
+      - law1974
+      - anrac_law
+      - anrac_decrees
+    currency: MAD
+    penalties:
+      - label: Unlicensed cultivation or production
+        treatment: criminal
+        term: Cultivation
+        prison_min: 5 years
+        prison: 10 years
+        fine_min: 5000
+        fine: 50000
+  enforcement:
+    text: >-
+      Moroccan forces seize and destroy large resin consignments crossing the territory: 12 tonnes
+      of resin seized across the Laayoune-Sakia El Hamra region were burned on 1 July 2020, and the
+      army stopped about six tonnes in four vehicles at Oum Dreyga on 13 February 2022.[@mwn20,mwn22]
+    sources:
+      - mwn20
+      - mwn22
+  sharing:
+    text: >-
+      Article 3 of the 1974 law punishes facilitating another person's use, paid or free, with two
+      to ten years and a fine of up to 500,000 dirhams.[@law1974]
+    sources:
+      - law1974
+  consumption:
+    text: >-
+      Illicit use carries two months to one year in prison and a 500–5,000 dirham fine, or either
+      alone, under Article 8 of the 1974 law, as in the rest of Morocco.[@law1974] No source
+      describes the rules applied in the Polisario-held zone.
+    sources:
+      - law1974
+  access:
+    text: >-
+      Medical cannabis products licensed under Morocco's Law 13-21 are a national framework; there
+      is no Western Sahara-specific route.[@anrac_law]
+    sources:
+      - anrac_law
+context:
+  production:
+    status: none
+    text: >-
+      Licensed cannabis cultivation under Law 13-21 is limited to northern provinces fixed by
+      decree; the resin seized in Western Sahara is in transit from the north.[@anrac_decrees,mwn22]
+    sources:
+      - anrac_decrees
+      - mwn22
+  medical:
+    text: >-
+      Moroccan medical cannabis rules under Law 13-21 apply nationally in the Moroccan-held part;
+      no local patient route is documented.[@anrac_law]
+    sources:
+      - anrac_law
+  consequences:
+    text: >-
+      Convictions follow Morocco's 1974 law, with five to ten years for possession and trafficking
+      offences and up to a year for use.[@law1974]
+    sources:
+      - law1974
+  arrests:
+    text: >-
+      Seizures are counted in tonnes: 12 tonnes of resin burned in Laayoune on 1 July 2020, and
+      about six tonnes stopped at Oum Dreyga in the Dakhla-Oued Eddahab region on 13 February
+      2022.[@mwn20,mwn22]
+    sources:
+      - mwn20
+      - mwn22
+sources:
+  wiki:
+    title: Wikipedia — Western Sahara
+    url: https://en.wikipedia.org/wiki/Western_Sahara
+    locator: Polisario controls about 30%; the remaining 70%, including almost all of the coast and all major cities, is held by Morocco.
+  law1974:
+    title: "Morocco — Dahir 1-73-282 of 21 May 1974 on narcotic drugs, republished by the UN"
+    url: https://digitallibrary.un.org/record/458193/files/S_2001_1288-FR.pdf
+    locator: "Annex, articles 1–3 and 8: possession five to ten years; use two months to one year; facilitation two to ten years."
+  anrac_law:
+    title: "Morocco — Law 13-21 of 14 July 2021 on the legal uses of cannabis (ANRAC)"
+    url: https://www.anrac.gov.ma/wp-content/uploads/2023/10/13-21-Fr.pdf
+  anrac_decrees:
+    title: "ANRAC — Implementing decrees (Decree 2-22-159 of 18 March 2022 and related texts)"
+    url: https://www.anrac.gov.ma/en/decrees/
+  mwn20:
+    title: Morocco World News — Police incinerate 12 tons of cannabis in Laayoune (2 July 2020)
+    url: https://www.moroccoworldnews.com/2020/07/68426/police-incinerate-12-tons-of-cannabis-in-laayoune/
+  mwn22:
+    title: Morocco World News — Police seize 6 tonnes of cannabis resin in southern Morocco (14 February 2022)
+    url: https://www.moroccoworldnews.com/2022/02/49916/police-seize-6-tonnes-of-cannabis-resin-in-southern-morocco/

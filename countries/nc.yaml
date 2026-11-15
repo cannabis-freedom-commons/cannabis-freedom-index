@@ -1,0 +1,127 @@
+name: New Caledonia
+region: Oceania
+iso_numeric: 540
+dependency:
+  of: fr
+  kind: Sui generis French collectivity
+  note: >-
+    New Caledonia is a French collectivity with its own Congress and wide powers; narcotics are
+    scheduled under the former French public health code as applied in New Caledonia, which keeps
+    CBD on the narcotics list, unlike mainland France.
+words:
+  - { word: paka, lang: New Caledonian French, meaning: "cannabis, the local slang name", sources: [lnc26] }
+recreational: illegal
+medical: none
+updated: '2026-11-15'
+summary: >-
+  Cannabis, locally called paka, is illegal and grown illicitly, and even CBD is still listed as a
+  narcotic, unlike in mainland France. In June 2026 the Congress adopted a 2026–2030 plan to build
+  a hemp sector of at most 0.3% THC, which still needs a law to define hemp.
+scores:
+  possession: 1
+  cultivation: 1
+  enforcement: 2
+  sharing: 1
+  consumption: 1
+  access: 0
+segments:
+  possession:
+    text: >-
+      Cannabis is illegal; plants and substances are classed as narcotics under the former public
+      health code applicable in New Caledonia, which also covers CBD, classed "au même titre que le
+      THC".[@wiki,lnc24,customs26]
+    sources:
+      - wiki
+      - lnc24
+      - customs26
+  cultivation:
+    text: >-
+      Cannabis is cultivated illicitly, and growing it is a narcotics offence; the 2026 hemp plan
+      only foresees a future legal definition of hemp at 0.3% THC or less.[@wiki,delib26]
+    sources:
+      - wiki
+      - delib26
+  enforcement:
+    text: >-
+      Trafficking cases go before the courts with prison terms: in October 2026 a woman who
+      smuggled cannabis into the Camp-Est prison, with 536 g found at two addresses, received a
+      firm sentence bringing her total to two years.[@lnc26]
+    sources:
+      - lnc26
+  sharing:
+    text: >-
+      Supplying cannabis is prosecuted as trafficking; the Camp-Est case concerned about seven
+      months of dealing of cannabis from Houaïlou.[@lnc26]
+    sources:
+      - lnc26
+  consumption:
+    text: >-
+      There is no lawful use; cannabis is the territory's main drug problem, and Kanak customary
+      chiefs have opposed it.[@wiki]
+    sources:
+      - wiki
+  access:
+    text: >-
+      No medical route exists, and CBD itself remains a scheduled narcotic; a January 2024 Congress
+      motion asked to remove CBD from the narcotics list and allow certified CBD oils.[@lnc24]
+      The 2026 hemp plan aims to develop CBD and CBG for medical use.[@delib26]
+    sources:
+      - lnc24
+      - delib26
+context:
+  production:
+    status: none
+    text: >-
+      Paka is grown illicitly; the cannabis in the 2026 Camp-Est case came from Houaïlou on the east
+      coast.[@wiki,lnc26] The Congress adopted on 5 June 2026 a 2026–2030 strategic plan to build a
+      non-narcotic hemp sector, with a legal definition of hemp at 0.3% THC or less still to be
+      adopted.[@delib26]
+    sources:
+      - wiki
+      - lnc26
+      - delib26
+  hemp:
+    status: none
+    text: >-
+      CBD is classed as a narcotic like THC and is banned, unlike in mainland France; the 2026 hemp
+      plan proposes defining hemp as Cannabis sativa L. with at most 0.3% THC on dry matter.[@lnc24,delib26]
+    sources:
+      - lnc24
+      - delib26
+  medical:
+    text: >-
+      There is no medical cannabis route; CBD remains a narcotic, and the January 2024 motions to
+      delist it were proposals.[@lnc24]
+    sources:
+      - lnc24
+  consequences:
+    text: >-
+      Trafficking leads to prison terms, including immediate committal after a summary trial, as in
+      the 2026 Camp-Est case.[@lnc26]
+    sources:
+      - lnc26
+  visitors:
+    status: none
+    text: >-
+      There is no legal supply for anyone; even CBD products are banned.[@lnc24]
+    sources:
+      - lnc24
+sources:
+  wiki:
+    title: Wikipedia — Cannabis in New Caledonia
+    url: https://en.wikipedia.org/wiki/Cannabis_in_New_Caledonia
+  lnc24:
+    title: Les Nouvelles Calédoniennes — CBD motions before the Congress (17 January 2024)
+    url: https://www.lnc.nc/print/1423451
+    locator: CBD "demeure interdit" and is classed on the narcotics list "au même titre que le THC"; three motions to delist CBD, allow certified oils and study a hemp sector.
+  lnc26:
+    title: Les Nouvelles Calédoniennes — Deux ans de prison ferme pour une femme qui faisait passer du cannabis au Camp-Est (6 October 2026)
+    url: https://www.lnc.nc/print/1432390
+  delib26:
+    title: Congrès de la Nouvelle-Calédonie — Délibération n° 562 du 5 juin 2026 relative au plan stratégique de structuration de la filière chanvre
+    url: https://juridoc.gouv.nc/juridoc/jdtextes.nsf/0/395984df134430db4b258e18000111a1/$file/deliberation_562_05-06-2026_chg.pdf
+    locator: Plan 2026–2030; action 3, define hemp legally at ≤0.3% THC and list authorised varieties; objective to develop CBD and CBG for medical use.
+  customs26:
+    title: Haut-commissariat de la République en Nouvelle-Calédonie — arrêté HC/DRD/23/MO/26 du 30 avril 2026
+    url: https://juridoc.gouv.nc/juridoc/jdtextes.nsf/0/9e7da843617a3d864b25895f00114c00/$file/arrete_hc-drd-23-mo-26_du_30-04-2026_chg.pdf
+    locator: Plants and substances classed as narcotics or psychotropics under the former public health code applicable in New Caledonia.
