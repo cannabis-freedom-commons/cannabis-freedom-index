@@ -4,6 +4,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # GitHub drops a cache unused for 7 days; a weekly build keeps the social images' cache alive
+  # (without it, a quiet week makes the next deploy redraw every image, about 30 minutes)
+  schedule:
+    - cron: "17 3 * * 1"
 
 # Let the workflow publish to Pages using GitHub's own token.
 permissions:
